@@ -1,8 +1,8 @@
 # calculadora-grados
  calculadora de grados
- de celsius a fahrenheit
- de celsius a kelvin
+ de celsius a fahrenheit(hecho)
+ de celsius a kelvin(hecho)
  de fahrenheit a kelvin
- de fahrenheit a celsius
+ de fahrenheit a celsius(hecho)
  de kelvin a fahrenheit
- de kelvin a celsius
+ de kelvin a celsius(hecho)
